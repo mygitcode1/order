@@ -6,7 +6,7 @@
     <!-- Mandatory POM metadata -->
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.practice</groupId> 
-    <artifactId>gateway</artifactId> 
+    <artifactId>order</artifactId> 
     <version>1.0.0</version> 
 
     <name>Gateway Project</name>
